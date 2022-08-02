@@ -4,7 +4,7 @@
 
 
 - 📚 Estou cursando engenharia de software na universidade federal do Ceará
-- 💻 Atualmente estudando desenvolvimento web
+- 💻 Atualmente trabalhando como desenvolvedor full stack
 - 📫 Email: mfsaraujo2014@gmail.com
 - 💬 Fale comigo sobre: Programação, Linguagens, Futebol, Finanças, Empreendedorismo, Blockchain etc.
 
